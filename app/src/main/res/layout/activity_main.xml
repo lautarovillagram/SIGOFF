@@ -50,14 +50,5 @@
             android:layout_height="wrap_content"
             android:text="Buscar" />
 
-        <TextView
-            android:id="@+id/txtMainViewDom"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-
-        <TextView
-            android:id="@+id/txtMainViewId"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
